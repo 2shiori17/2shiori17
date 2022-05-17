@@ -21,11 +21,6 @@ jobs:
           base: header
           config_timezone: Asia/Tokyo
           
-          # https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
           plugin_languages: yes
           plugin_languages_details: percentage
