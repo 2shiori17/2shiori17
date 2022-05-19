@@ -18,6 +18,7 @@ jobs:
 
           # https://github.com/lowlighter/metrics/blob/latest/source/plugins/core/README.md
           user: 2shiori17
+          base: ""
           config_timezone: Asia/Tokyo
           
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
